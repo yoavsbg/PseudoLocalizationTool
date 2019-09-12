@@ -1,4 +1,4 @@
-# PseudoLocalizationTool
+# PseudoLocalization Tool
 Pseudolocalization Tool is a tool testing method used for testing internationalization aspects of software.
 
 ![](art/screenshot.png)
